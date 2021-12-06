@@ -51,9 +51,9 @@ Code to generate the stimuli can be found [here](https://github.com/colleenjg/cr
 ## 6. Authors
 This code was written by:
 
-* Colleen Gillon (colleen.gillon@mail.utoronto.ca)
-* Jay Pina (jaypina@yorku.ca)
-* Joel Zylberberg (joelzy@yorku.ca)
-* Blake Richards (blake.richards@mcgill.ca)
+* Colleen Gillon (colleen _dot_ gillon _at_ mail _dot_ utoronto _dot_ ca)
+* Jay Pina 
+* Joel Zylberberg 
+* Blake Richards 
 
 The module `sess_util.Dataset2p.py` contains code shared by authors at the Allen Institute for Brain Science. The authors of the code cannot guarantee support for its usage.
